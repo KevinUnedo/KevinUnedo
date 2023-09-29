@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently **studying in Del Institute of Technology**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Database, etc**
+- 🌱 I’m currently learning **Artificial Intelligence, Advance Database, Web Programming, etc**
 
 - 📫 How to reach me **kevinunedo14@gmail.com**
 
